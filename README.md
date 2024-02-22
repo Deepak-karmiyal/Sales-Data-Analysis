@@ -1,8 +1,8 @@
 
-#### Sales Analysis With Python - Sales Analysis With Python & Pandas
+### Sales Analysis With Python - Sales Analysis With Python & Pandas
 
 
-### 'Sales Analysis' was made on a sample data with Pandas, Matplotlib and Seaborn library. Jupyter Notebook was used via Anaconda and answers to the following questions were sought in the sample sales analysis.
+## 'Sales Analysis' was made on a sample data with Pandas, Matplotlib and Seaborn library. Jupyter Notebook was used via Anaconda and answers to the following questions were sought in the sample sales analysis.
 
 1.Which are the most numbers of buyers from category male or female?
 
@@ -19,7 +19,7 @@
 
 
 
-####  conculsion
+##  conculsion
 
 Married women are group 26-35 from UP,Maharastra and Karnataka working in IT ,Healthcare and Aviation are more likely to buy products from Foods,Clothing and Electronic categories
 
